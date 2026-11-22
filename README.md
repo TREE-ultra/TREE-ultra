@@ -8,6 +8,7 @@
 
 解析几何 · 摄影器材 · 一本正经胡说八道的网页
 
+[![个人网站](https://img.shields.io/badge/个人网站-tree--ultra.github.io-5f7f62?style=flat-square&logo=github)](https://tree-ultra.github.io/TREE-ultra)
 [![GitHub](https://img.shields.io/badge/GitHub-TREE--ultra-181c1a?style=flat-square&logo=github)](https://github.com/TREE-ultra)
 
 </div>
@@ -33,7 +34,7 @@
 
 | 作品 | 是什么 | 在线 | 源码 |
 | :-- | :-- | :--: | :--: |
-| **圆锥喵** | 拖动 X/Y/Z 三轴平移切面，看平面切圆锥得到圆、椭圆、抛物线、双曲线，以及退化成的点与直线 | [试玩](https://tree-ultra.github.io/-/) | [源码](https://github.com/TREE-ultra/-) |
+| **圆锥喵** | 拖动 X/Y/Z 三轴平移切面，看平面切圆锥得到圆、椭圆、抛物线、双曲线，以及退化成的点与直线 | [试玩](https://tree-ultra.github.io/cone/) | [源码](https://github.com/TREE-ultra/cone) |
 | **The Camera Tree** | 一棵挂满 21 件真实影像器物的 3D 圣诞树，可检视 CMOS 与画幅 | [试玩](https://tree-ultra.github.io/camera-tree/) | [源码](https://github.com/TREE-ultra/camera-tree) |
 | **中国废弃物循环利用股份有限公司** | 一个故意做丑的虚构企业官网，15 页，零圆角、顶死边框、配色令人生理不适 | [体验](https://tree-ultra.github.io/very-ugly-website/) | [源码](https://github.com/TREE-ultra/very-ugly-website) |
 
@@ -56,9 +57,11 @@
 ## 📫 联系
 
 [![GitHub](https://img.shields.io/badge/GitHub-TREE--ultra-181c1a?style=flat-square&logo=github)](https://github.com/TREE-ultra)
-[![作品集](https://img.shields.io/badge/作品集-tree--ultra.github.io-5f7f62?style=flat-square&logo=github)](https://tree-ultra.github.io/)
+[![个人网站](https://img.shields.io/badge/个人网站-tree--ultra.github.io-5f7f62?style=flat-square&logo=github)](https://tree-ultra.github.io/TREE-ultra)
+[![Email](https://img.shields.io/badge/Email-treeultra@126.com-181c1a?style=flat-square&logo=gmail)](mailto:treeultra@126.com)
 
 有想法、有吐槽、或者想一起做个奇怪的东西 —— 欢迎来敲我喵。
+邮箱：[treeultra@126.com](mailto:treeultra@126.com)
 
 ---
 
