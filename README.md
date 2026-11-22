@@ -8,7 +8,6 @@
 
 解析几何 · 摄影器材 · 一本正经胡说八道的网页
 
-[![作品集](https://img.shields.io/badge/作品集-tree--ultra.github.io-5f7f62?style=flat-square&logo=github)](https://tree-ultra.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-TREE--ultra-181c1a?style=flat-square&logo=github)](https://github.com/TREE-ultra)
 
 </div>
